@@ -1,0 +1,100 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+.parent{
+   padding: 20px;
+   display: flex;
+   justify-content: space-evenly;
+}
+.parent i{
+   font-size: 30px;
+   padding-top: 20px;
+   color: rgb(124, 106, 70);
+}
+.parent ul{
+   display: flex;
+}
+.parent ul li{
+   padding: 20px;
+   list-style: none;
+   font-size: 30px;
+   font-family: sans-serif;
+}
+.parent ul li:first-child{
+   color: rgb(124, 106, 70);
+}
+.button button{
+   height: 65px;
+   color: white;
+   font-size: 18px;
+   border-radius: 10px;
+   
+   border: none;
+  background-color:rgb(124, 106, 70) ;
+   width: 250px;
+}
+.right-dhexda img{
+ height: 600px;
+ width: 900px;
+}
+.dhexda-parent{
+   display: flex;
+   justify-content: space-evenly;
+   margin-top: 60px;
+}
+.left-dhexda h3{
+   font-size: 50px;
+   color: rgb(124, 106, 70);
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.left-dhexda h1{
+   padding-top: 20px;
+   color: black;
+   font-size: 90px;
+   font-family: sans-serif;
+}
+.left-dhexda p{
+   padding-top: 20px;
+   color: rgb(124, 106, 70);
+}
+.btns{
+   padding-top: 20px;
+   display: flex;
+   justify-content: space-evenly;
+   margin-left: -100px;
+}
+.btns button{
+   height: 65px;
+   color: white;
+   font-size: 18px;
+   border-radius: 10px;
+   
+   border: none;
+  background-color:rgb(124, 106, 70) ;
+   width: 250px;
+}
+.parent-footer{
+   display: flex;
+   padding-top: 40px;
+   justify-content: space-evenly;
+}
+.icons p{
+   margin-left: 20px;
+}
+.icons {
+   display: flex;
+   
+   font-size: 30px;
+
+}
+#btn-last {
+   height: 65px;
+   color: white;
+   font-size: 18px;
+   border-radius: 10px;
+   border: none;
+  background-color:rgb(124, 106, 70) ;
+   width: 250px;
+}
+
